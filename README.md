@@ -6,9 +6,11 @@
 
 ##### 2. 修改一些配置
 
-需要根据你的实际情况修改一些配置
+需要根据你的实际情况修改一些配置。点击下面的看图片看
 
 ![image-20200111160035731](https://leyou-oss-quark.oss-cn-shenzhen.aliyuncs.com/image-20200111160035731.png)
+
+https://leyou-oss-quark.oss-cn-shenzhen.aliyuncs.com/image-20200111160035731.png
 
 ##### 3. 运行打包
 
@@ -26,7 +28,11 @@ npm run build
 
 ![image-20200111161004193.png](https://leyou-oss-quark.oss-cn-shenzhen.aliyuncs.com/image-20200111161004193.png)
 
+https://leyou-oss-quark.oss-cn-shenzhen.aliyuncs.com/image-20200111161004193.png
+
 ![image-20200111161222548.png](https://leyou-oss-quark.oss-cn-shenzhen.aliyuncs.com/image-20200111161222548.png)
+
+https://leyou-oss-quark.oss-cn-shenzhen.aliyuncs.com/image-20200111161222548.png
 
 ##### 4. 访问后台管理
 
